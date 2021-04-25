@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <string name="title_login">Login</string>
+    <string name="title_welcome">Welcome</string>
+    <string name="title_instructions">Instructions</string>
+    <string name="title_listing">Listing</string>
+    <string name="title_detail">Details</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="welcome_header">Hey there!</string>
+    <string name="welcome_body">This app demonstrates the layout and navigation skills learned in the Android Kotlin Developer Nanodegree Program.</string>
+    <string name="next">Next</string>
+    <string name="instructions_header">How to Use Shoe Store</string>
+    <string name="instructions_body">In the next screen a list of shoes is displayed. To add a new shoe press the fab button, enter the details (Name, Size, Company and Description) and press save. The new shoe will be added to the list.</string>
+    <string name="start">Start</string>
+    <string name="logout">Logout</string>
+    <string name="fab_content_desc">Add shoe</string>
+    <string name="detail_header">Input the following details:</string>
+    <string name="name">Name</string>
+    <string name="company">Company</string>
+    <string name="size">Size</string>
+    <string name="description">Description</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+</resources>
